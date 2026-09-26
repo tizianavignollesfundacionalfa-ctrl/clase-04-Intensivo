@@ -4,7 +4,7 @@
 * Utilizo los siguientes componentes en Cloude ESTUDIO:
    * Prompt con las 5 partes (Rol, Contexto, Requerimiento, Tarea, Salida)
    * Archivo Excel Base de Datos.
-  * Salida de Cloude:
+* Salida de Cloude:
    * Archivo Excel .xlsx con Indicadores.
    * Archivo Index.html para Netlity.
 
